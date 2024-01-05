@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Linda+Wang..&hearts;++;Computer+Science+Student,;Welcome+to+my+Github...<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Raghuraj+Pratap+Yadav...;++Computer+Science+Student,;Welcome+to+my+GitHub...<3"></a>
 </p>
+
 
 <!---
 vladelets-vselennoy/vladelets-vselennoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
